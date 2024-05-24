@@ -8,7 +8,6 @@ This project is a simple registration form built using React.js. It includes val
 - [Usage](#usage)
 - [Project Structure](#project-structure)
 - [Screenshots](#screenshots)
-- [License](#license)
 
 ## Installation
 
@@ -75,8 +74,8 @@ The main component that includes routing logic.
 
 ### Form Screenshot
 
-![Form Screenshot](<link_to_your_image>)
+![Form Screenshot](https://github.com/sourajit0/registration-form-using-reactjs/blob/main/screenshot/form.jpeg)
 
 ### Success Screenshot
 
-![Success Screenshot](<link_to_your_image>)
+![Success Screenshot](https://github.com/sourajit0/registration-form-using-reactjs/blob/main/screenshot/Success.jpeg)
