@@ -53,6 +53,8 @@ registration-form-using-reactjs/
 ├── package.json
 ├── README.md
 └── ...
+```
+
 # Registration Form using React.js
 
 This project is a simple registration form built using React.js. It includes validation for required fields, displays error messages, and disables submission until all fields are correctly filled. Upon successful submission, the form details are displayed on a new route.
