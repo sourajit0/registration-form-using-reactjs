@@ -7,7 +7,7 @@ function App() {
   return (
     <Router>
       <Routes>
-        <Route path="/" element={<Form />} />
+        <Route path="/registration-form-using-reactjs" element={<Form />} />
         <Route path="/success" element={<Success />} />
       </Routes>
     </Router>
