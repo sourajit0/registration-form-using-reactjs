@@ -8,6 +8,7 @@ This project is a simple registration form built using React.js. It includes val
 - [Usage](#usage)
 - [Project Structure](#project-structure)
 - [Screenshots](#screenshots)
+- [Live Link](https://sourajit0.github.io/registration-form-using-reactjs/)
 
 ## Installation
 
