@@ -41,9 +41,8 @@ registration-form-using-reactjs/
 │   └── ...
 │
 ├── src/
-│   ├── components/
-│   │   ├── Form.js
-│   │   └── Success.js
+│   ├── Form.js 
+│   ├── Success.js
 │   ├── App.js
 │   ├── index.js
 │   └── ...
