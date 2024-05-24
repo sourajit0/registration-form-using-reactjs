@@ -1,0 +1,52 @@
+.success-container {
+  max-width: 600px;
+  margin: 0 auto;
+  padding: 20px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  background-color: #f9f9f9;
+}
+
+.success-heading {
+  text-align: center;
+  font-size: 24px;
+  margin-bottom: 20px;
+  color: #007bff;
+}
+
+.success-details {
+  margin-bottom: 20px;
+}
+
+.success-details h2 {
+  font-size: 20px;
+  margin-bottom: 10px;
+}
+
+.success-details p {
+  margin-bottom: 5px;
+}
+
+.success-details p strong {
+  font-weight: bold;
+}
+
+.success-button {
+  display: block;
+  width: 100%;
+  max-width: 200px;
+  margin: 0 auto;
+  padding: 10px 20px;
+  background-color: #007bff;
+  color: #fff;
+  border: none;
+  border-radius: 5px;
+  font-size: 16px;
+  text-align: center;
+  cursor: pointer;
+  text-decoration: none;
+}
+
+.success-button:hover {
+  background-color: #0056b3;
+}
